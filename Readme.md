@@ -1,0 +1,1 @@
+[![kuprik's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kuprik)](https://github.com/KnlnKS/leetcode-stats)
