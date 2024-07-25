@@ -3,7 +3,7 @@
 
 ### My leetcode stats
 
-[![kuprik's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kuprik)](https://github.com/KnlnKS/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/kuprik)
 
 
 ### About Me 👦
