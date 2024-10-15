@@ -8,6 +8,6 @@
 
 ### About Me 👦
 
-- 🌱 I’m currently learning: Python.
+- 🌱 I’m currently learning: Python, Golang.
 - 👯 I’m looking to collaborate on: Anything cool and interesting!
 - 📫 How to reach me: kuprin.rabota@yandex.ru
